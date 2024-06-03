@@ -1,5 +1,5 @@
 # YouTube-Data-Harvesting-and-Warehousing
-Project Summary: Scrapping the channel's data from youtube, by connecting to youtube's API. Storing the data in MongoDB in form of Collections. Taking data from MongoDB and converting it to Pandas dataframe to insert the data to SQL in the form table. Now we can analyse the channel's data in SQL.
+Project Summary: Scrapping the channel's data from youtube, by connecting to youtube's API. Storing the data in MongoDB in the form of Collections. Taking data from MongoDB and converting it to Pandas dataframe to insert the data to SQL database in the form table. Now we can analyse the channel's data from SQL database.
 
 
 Please find the below detailed explanation of this Project.
